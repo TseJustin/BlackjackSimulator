@@ -44,15 +44,15 @@ public final class Configs {
         
         /*Custom Spread */
         if (true_count <= -3) {
-            b.add(5.0);
+            b.add(25.0);
             return b;
         }
         if (true_count == -2) {
-            b.add(5.0);
+            b.add(25.0);
             return b;
         }
         if (true_count == -1) {
-            b.add(5.0);
+            b.add(25.0);
             return b;
         }
         if (true_count == 0) {
